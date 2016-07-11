@@ -1,8 +1,8 @@
 # Bootcamp
 
-## Day 1
+### Day 1
 
-### Playground
+#### Playground
 
 1. Coding Warmup
 2. Simple Math
