@@ -1,10 +1,8 @@
-##### Bootcamp
-
-### This is where my playgrounds, projects and exercises are stored.
+# Bootcamp
 
 ## Day 1
 
-# Playground
+### Playground
 
 1. Coding Warmup
 2. Simple Math
